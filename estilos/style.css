@@ -39,3 +39,10 @@ section#telefone
     /* background-color: blue; */
     background: blue url('../imagens/frame-iphone.png');
 }
+
+iframe#tela
+{
+    position: relative;
+    top: 80px;
+    left: 23px;
+}
